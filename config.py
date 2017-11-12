@@ -1,1 +1,1 @@
-subreddits = ["liverpoolfc", "soccer", "Gunners", "reddevils", "chelseafc"]
+subreddits = ["soccer", "liverpoolfc", "Gunners", "reddevils", "chelseafc"]
